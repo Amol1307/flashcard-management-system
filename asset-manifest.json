@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flashcard-management-system/static/css/main.8ada8102.css",
+    "main.js": "/flashcard-management-system/static/js/main.d74f7878.js",
+    "index.html": "/flashcard-management-system/index.html",
+    "main.8ada8102.css.map": "/flashcard-management-system/static/css/main.8ada8102.css.map",
+    "main.d74f7878.js.map": "/flashcard-management-system/static/js/main.d74f7878.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ada8102.css",
+    "static/js/main.d74f7878.js"
+  ]
+}
